@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wamasoo23
 - 👀 I’m interested in coding: all languages
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning R, python, react,c++, 
 - 💞️ I’m looking to collaborate on any programming project
 - 📫 How to reach me: @wamasoo23
 - 😄 Pronouns: ...
